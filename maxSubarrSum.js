@@ -14,3 +14,5 @@ var maxSequence = function (arr) {
   }
   return maxSum;
 };
+let arr = [5, 6, -5, 15, -12, 20, -15, 3, -7];
+console.log(maxSequence(arr));
